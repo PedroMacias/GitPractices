@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  font-family: "Arial;"
+  font-family: Courier;
   color: #333;
   margin: 0;
   padding: 0;
@@ -11,7 +11,7 @@ body{
   width: 70%;
   padding: 1em;
   text-align: left;
-  border: 1px solid black;
+  border: 1px solid #DDD;
   font-size: 40px;
   margin: 0 auto;
 }
