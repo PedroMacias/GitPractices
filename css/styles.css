@@ -1,5 +1,11 @@
-h1{
-  font-family: Arial, sans-serif;
+body{
+  text-align: center;
+  font-family: "Arial;"
+}
+
+h1
+{
+  font-family: "Fjalla One", "Arial";
   font-weight: normal;
   color: red;
   font-size: 40px;
@@ -7,5 +13,6 @@ h1{
 }
 
 p{
-  color:red;
+  color: black;
+  font-size: 30px;
 }
