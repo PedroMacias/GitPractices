@@ -1,18 +1,21 @@
 body{
   text-align: center;
   font-family: "Arial;"
+  color: #333;
+  margin: 0;
+  padding: 0;
 }
 
-h1
+.container
 {
-  font-family: "Fjalla One", "Arial";
-  font-weight: normal;
-  color: red;
+  width: 70%;
+  padding: 1em;
+  text-align: left;
+  border: 1px solid black;
   font-size: 40px;
-  line-height: 1.5;
+  margin: 0 auto;
 }
 
-p{
-  color: black;
-  font-size: 30px;
+.container h1{
+  font-size: 35px;
 }
