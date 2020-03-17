@@ -40,8 +40,12 @@ body{
 }
 
 .footer{
-  background: #777;
+  background: black;
   color: white;
   text-align: center;
   padding: 0.5em;
+}
+
+.footer span{
+  color: red;
 }
